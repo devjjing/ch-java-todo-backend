@@ -1,7 +1,9 @@
 package de.neuefische.backend.todo;
 
 public enum TodoStatus {
+    INACTIVE,
     OPEN,
-    IN_PROGRESS,
-    DONE,
+    PROGRESSING,
+    FINISHED,
+    ARCHIVED
 }

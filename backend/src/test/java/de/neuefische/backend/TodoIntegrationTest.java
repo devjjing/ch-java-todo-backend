@@ -1,4 +1,4 @@
-package de.neuefische.todo.backend;
+package de.neuefische.backend;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import de.neuefische.todo.backend.todo.Todo;
